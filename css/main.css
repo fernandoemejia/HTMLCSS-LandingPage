@@ -28,7 +28,7 @@ section {
 
 .align-center{ align-items: center;}
 
-.center{justify-items: center;}
+.center{justify-content: center;}
 
 .space-between {justify-content: space-between;}
 
