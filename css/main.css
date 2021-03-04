@@ -383,7 +383,7 @@ background-image: url('../img/pinterest.svg');
 
 .newsletter input{
     border: 1px solid #364147;
-    border-width: 200px;
+    width: 200px;
     margin-bottom: 10px;
 }
 
