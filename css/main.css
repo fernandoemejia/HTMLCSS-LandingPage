@@ -289,4 +289,5 @@ color:#faa541;
     margin-top: 50px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    z-index: 1;
 }
