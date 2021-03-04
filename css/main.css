@@ -264,7 +264,7 @@ color:#faa541;
     line-height: 1;
 }
 
-.full-banner-sidebar h4 ::after{
+.full-banner-sidebar h4:after{
     content:"";
     width:100px;
     height:1px;
