@@ -138,6 +138,7 @@ color:#364147;
     background-image: url("../img/hero.jpg");
     height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
     text-transform: uppercase;
 }
