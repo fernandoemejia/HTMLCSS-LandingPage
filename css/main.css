@@ -94,11 +94,8 @@ color:#364147;
 .search-box{
     width: 330px;
     height: 30px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 12px;
-    padding-right: 12px;
-    border:1px;
-    border-color: #a0a0a0;
+    padding: 6px 12px;
+    border:1px solid #a0a0a0;
     
+
 }
