@@ -239,3 +239,10 @@ color:#faa541;
     z-index: 1;
 
 }
+
+.full-banner-image{
+    flex: 0 0 58.333333%;
+    background-image: url('../img/vista.jpg');
+    background-size: cover;
+    background-position: top center;
+}
