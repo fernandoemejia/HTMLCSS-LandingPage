@@ -134,3 +134,10 @@ color:#364147;
     border-radius: 100px;
     max-width: 100%;
 }
+.hero{
+    background-image: url("../img/hero.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
+}
