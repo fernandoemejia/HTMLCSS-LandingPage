@@ -245,4 +245,5 @@ color:#faa541;
     background-image: url('../img/vista.jpg');
     background-size: cover;
     background-position: top center;
+    min-height: 400px;
 }
