@@ -399,5 +399,9 @@ background-image: url('../img/pinterest.svg');
     padding: 40px 0;
     color: #e5e5e5;
     font-size: 16px;
+   
+}
+
+.ps img{
     max-width: 230px;
 }
